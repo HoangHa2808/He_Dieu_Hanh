@@ -1,0 +1,8 @@
+Họ và tên: Đoàn Cao Nhật Hạ		MSSV: 2012353
+Lớp: CTK44A
+
+
+Phân mảnh nội vi: có hiện tượng vùng nhớ dư thừa khi cấp phát một vùng nhớ lớn hơn kích thước yêu cầu
+Phân mảnh ngoại vi: là hiện tượng kích thước vùng nhớ còn trống, đủ để thỏa mãn yêu cầu cấp phát nhưng vùng nhớ lại không liên tục.
+Hiện tượng phân mảnh ngoại vi xảy ra khi thường xuyên cấp phát vùng nhớ mới, sau đó xóa đi các vùng nhớ đã cấp phát ko theo thứ tự.
+Để không xảy ra hiện tượng phân mảnh ngoại vi thì thực hiện dồn bộ nhớ(Windows)
